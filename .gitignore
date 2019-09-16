@@ -1,0 +1,15 @@
+
+# vscode settings
+.vscode
+
+# python virtualenv
+env/
+
+# pycache folders
+__pycache__
+
+# env files
+*.env
+
+# sqlite db
+*.sqlite3
